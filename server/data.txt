@@ -1,0 +1,193 @@
+Afrit Zuid	Kronenburgstraat	30	2000	Antwerpen	Vrij katholiek onderwijs	P	11	20	50
+De Dames	Lange Nieuwstraat	74	2000	Antwerpen	Vrij katholiek onderwijs	P	20	13	80
+De Kleine Jacob	Frans Halsplein	6	2000	Antwerpen	Vrij katholiek onderwijs	P	12	7	60
+K'do	Schildersstraat	41	2000	Antwerpen	GO!	P	10	9	50
+Musica Bervoetstraat	Bervoetstraat	31	2000	Antwerpen	Stedelijk onderwijs	P	4	12	50
+Musica Lange Ridderstraat	Lange Riddersstraat	48	2000	Antwerpen	Stedelijk onderwijs	P	5	4	50
+Onze-lieve-vrouwecollege KS	Frankrijklei	79	2000	Antwerpen	Vrij katholiek onderwijs	P	9	10	50
+Prins Dries KS	Dries	11	2000	Antwerpen	Stedelijk onderwijs	P	11	11	50
+Sint-Jan Berchmanscollege	Jodenstraat	15	2000	Antwerpen	Vrij katholiek onderwijs	P	0	5	75
+Sint-Lievenscollege KS	Kapucinessenstraat	28	2000	Antwerpen	Vrij katholiek onderwijs	P	16	24	50
+Sint-Ludgardis	Bervoetstraat	25	2000	Antwerpen	Vrij katholiek onderwijs	P	13	31	50
+Steinerschool Antwerpen Volkstraat	Scheldestraat	62	2000	Antwerpen	Vrij onderwijs	P	1	8	50
+Studio Dynamo	Verschansingstraat	29	2000	Antwerpen	Stedelijk onderwijs	P	22	20	50
+Via Louiza	Louizastraat	17	2000	Antwerpen	Stedelijk onderwijs	P	8	11	70
+Alberreke	Albertstraat	32	2018	Antwerpen	Stedelijk onderwijs	P	8	8	50
+Bais Chinuch	Lamorinièrestraat	83	2018	Antwerpen	Joods onderwijs	P	6	4	70
+Bais Rachel	Lamorinièrestraat	26	2018	Antwerpen	Joods onderwijs	P	10	8	50
+Benoth Jerusalem	Van Immerseelstraat	29	2018	Antwerpen	Joods onderwijs	P	5	18	80
+Crea 16	Grotehondstraat	50	2018	Antwerpen	Stedelijk onderwijs	P	11	11	85
+De Brug	Grotebeerstraat	31	2018	Antwerpen	Vrij katholiek onderwijs	P	4	8	50
+De Gele Ballon	Lamorinièrestraat	93	2018	Antwerpen	Stedelijk onderwijs	P	12	10	75
+De Hazelaar	Lange Lozanastraat	117	2018	Antwerpen	Vrij onderwijs	P	2	5	50
+De Kleine Wereld Belegstraat	Belegstraat	62	2018	Antwerpen	Stedelijk onderwijs	P	4	19	65
+De Krokodil	Grétrystraat	46	2018	Antwerpen	Stedelijk onderwijs	P	14	19	50
+De Sterrenkijker - Durletstraat	Durletstraat	8	2018	Antwerpen	Stedelijk onderwijs	P	13	22	70
+De Sterrenkijker - Molenstraat	Molenstraat	24	2018	Antwerpen	Stedelijk onderwijs	P	5	13	70
+De Wereldreiziger Provinciestraat	Provinciestraat	110	2018	Antwerpen	Stedelijk onderwijs	P	16	7	50
+De Wereldreiziger Quellinstraat	Quellinstraat	31	2018	Antwerpen	Stedelijk onderwijs	P	0	1	50
+De Zonnebloem (2018)	Van Trierstraat	28	2018	Antwerpen	Vrij katholiek onderwijs	P	6	10	50
+Heilig Hart	Isabellalei	107	2018	Antwerpen	Vrij katholiek onderwijs	P	20	17	50
+Internationale Evangelische School (De Zonnebloem)	Korte Altaarstraat	19	2018	Antwerpen	Vrij Pr.- Evangelisch	P	9	5	50
+Jesode Hatora-Beth Jacob	Steenbokstraat	16	2018	Antwerpen	Joods onderwijs	P	5	7	50
+Leefschool De Dageraad	Lange Altaarstraat	4	2018	Antwerpen	Vrij katholiek onderwijs	P	2	3	50
+Sint-Jozefinstituut	Jacob Jordaensstraat	75	2018	Antwerpen	Vrij katholiek onderwijs	P	22	18	60
+Sint-Ludgardis Belpaire	Haantjeslei	50	2018	Antwerpen	Vrij katholiek onderwijs	P	5	5	50
+Sint-Norbertusinstituut KS	Hertsdeinstraat	25	2018	Antwerpen	Vrij katholiek onderwijs	P	6	15	80
+Steinerschool Antwerpen Lamorinièrestraat	Lamorinièrestraat	229	2018	Antwerpen	Vrij onderwijs	P	2	2	50
+Tachkemoni	Lange Leemstraat	313	2018	Antwerpen	Joods onderwijs	P	2	7	50
+VIB Jesode-Hatora	Lange Van Ruusbroecstraat	12	2018	Antwerpen	Joods onderwijs	P	4	5	50
+Vita et Pax (Montessori-methode)	Breughelstraat	19	2018	Antwerpen	Vrij katholiek onderwijs	P	0	0	50
+Wiznitz	Belgiëlei	32	2018	Antwerpen	Joods onderwijs	P	2	8	50
+Yavne	Lamorinièrestraat	150	2018	Antwerpen	Joods onderwijs	P	10	10	54
+Creatopia	Valerius de Saedeleerstraat	2	2020	Antwerpen	Stedelijk onderwijs	P	21	5	50
+De Kameleon	Constant Permekestraat	2	2020	Antwerpen	Stedelijk onderwijs	P	35	9	50
+De Piramide	Pierenbergstraat	33	2020	Antwerpen	Stedelijk onderwijs	P	22	12	75
+De Tandem (Het Vosje)	Jan De Voslei	10	2020	Antwerpen	Stedelijk onderwijs	P	29	17	50
+Domino	Jan De Voslei	23A	2020	Antwerpen	Vrij katholiek onderwijs	P	28	7	70
+Kosmos	Gerard le Grellelaan	5	2020	Antwerpen	Stedelijk onderwijs	P	6	8	50
+Leefschool Toverbol	Wittestraat	116	2020	Antwerpen	Vrij katholiek onderwijs	P	9	2	50
+Pius X	VIIde-Olympiadelaan	25	2020	Antwerpen	Vrij katholiek onderwijs	P	0	2	50
+Vlinderwijs	Eric Sasselaan	2	2020	Antwerpen	GO!	P	10	8	50
+De Schroef	Elzasweg	14	2030	Antwerpen	Stedelijk onderwijs	P	1	10	50
+Maria Boodschap	Perustraat	4	2030	Antwerpen	Vrij katholiek onderwijs	P	6	6	80
+Optimist	Quebecstraat	3	2030	Antwerpen	Stedelijk onderwijs	P	24	6	90
+Sportomundo	Columbiastraat	6	2030	Antwerpen	Stedelijk onderwijs	P	29	9	75
+De Beren	Antwerpsebaan	152	2040	Antwerpen	Stedelijk onderwijs	P	1	10	80
+De Brem	Bremstraat	1	2040	Antwerpen	Stedelijk onderwijs	P	2	12	75
+De Brenne	Monnikenhofstraat	3	2040	Antwerpen	Vrij katholiek onderwijs	P	5	11	75
+Noordland Spaanse Molenstraat	Spaanse Molenstraat	48	2040	Antwerpen	Vrij katholiek onderwijs	P	6	14	75
+Aan de stroom	Willem van Haechtlaan	66	2050	Antwerpen	Stedelijk onderwijs	P	25	8	75
+Apenstaartjes	Hanegraefstraat	15	2050	Antwerpen	Stedelijk onderwijs	P	26	14	70
+De Dobbelsteen Emi	Emile Verhaerenlaan	19	2050	Antwerpen	Vrij katholiek onderwijs	P	13	9	60
+De Spits (tehuis voor schipperskinderen)	Thonetlaan	106	2050	Antwerpen	GO!	P	6	0	50
+Sint-Anna Goethe	Goethestraat	1	2050	Antwerpen	Vrij katholiek onderwijs	P	7	4	50
+De Bijtjes	Offerandestraat	60	2060	Antwerpen	Stedelijk onderwijs	P	30	9	50
+De Evenaar	Constitutiestraat	61	2060	Antwerpen	Stedelijk onderwijs	P	24	8	50
+De Gummi's	Sint-Gummarusstraat	2	2060	Antwerpen	Stedelijk onderwijs	P	38	12	50
+De Musjes	Pionierstraat	35	2060	Antwerpen	Stedelijk onderwijs	P	74	9	75
+De Pijl	Pijlstraat	2	2060	Antwerpen	GO!	P	39	19	50
+De Toverboom	Everaertsstraat	47	2060	Antwerpen	Stedelijk onderwijs	P	41	12	50
+De Vlinders	Lange Beeldekensstraat	258	2060	Antwerpen	Stedelijk onderwijs	P	30	8	80
+De Vuurtoren	Lange Kongostraat	17	2060	Antwerpen	Vrij katholiek onderwijs	P	19	7	50
+Elisabeth	Sint-Elisabethstraat	38A	2060	Antwerpen	Stedelijk onderwijs	P	12	6	70
+Groene Eilandje	Hardenvoort	41	2060	Antwerpen	Stedelijk onderwijs	P	12	11	80
+Het Atelier	Duinstraat	16	2060	Antwerpen	Stedelijk onderwijs	P	7	4	70
+Het Weilandje	Slachthuislaan	68	2060	Antwerpen	GO!	P	15	3	50
+Omnimundo	Van Maerlantstraat	30	2060	Antwerpen	Stedelijk onderwijs	P	14	4	50
+Sint-Aloysius	Vliegenstraat	33-37	2060	Antwerpen	Vrij katholiek onderwijs	P	10	7	80
+Sint-Maria	Lange Kongostraat	21	2060	Antwerpen	Vrij katholiek onderwijs	P	14	1	50
+Sint-Norbertusinstituut (2060)	Groenstraat	73	2060	Antwerpen	Vrij katholiek onderwijs	P	8	3	70
+t Spoor	Demerstraat	18	2060	Antwerpen	Vrij katholiek onderwijs	P	8	6	50
+Villa Stuivenberg	Stuivenbergplein	37	2060	Antwerpen	Stedelijk onderwijs	P	27	1	75
+Andromeda - Instapklas	Kerkhofweg	20	2100	Deurne	Vrij katholiek onderwijs	P	19	33	50
+Axijoma KS	de Berlaimontstraat	110	2100	Deurne	Vrij katholiek onderwijs	P	18	11	50
+De Bever	Albert Bevernagelei	65	2100	Deurne	Stedelijk onderwijs	P	12	4	100
+De Cirkel	Waterbaan	25	2100	Deurne	Stedelijk onderwijs	P	11	11	50
+De Groene Egel	Maria de Heeltstraat	114	2100	Deurne	Stedelijk onderwijs	P	24	8	50
+De Kangoeroe	Ruggeveldlaan	699	2100	Deurne	Stedelijk onderwijs	P	17	10	50
+De Mozaïek	Silsburgstraat	83	2100	Deurne	Stedelijk onderwijs	P	12	4	55
+De Octopus	Sint-Rochusstraat	124	2100	Deurne	Stedelijk onderwijs	P	12	20	70
+De Speelvogel	Schotensesteenweg	138	2100	Deurne	Stedelijk onderwijs	P	8	7	50
+De Trampoline	Tweegezusterslaan	47b	2100	Deurne	GO!	P	5	5	50
+Drakenhof	Drakenhoflaan	242	2100	Deurne	Vrij katholiek onderwijs	P	11	17	100
+Ervaringsgerichte basisschool De Linde	Van Steenlandstraat	15	2100	Deurne	Vrij katholiek onderwijs	P	5	7	50
+Freinetschool De Pientere Piste	August van de Wielelei	136	2100	Deurne	GO!	P	8	7	70
+Heilig Hart - De Ster	Seraphin de Grootestraat	120	2100	Deurne	Vrij katholiek onderwijs	P	15	10	80
+Het Baronneke	Baron Leroystraat	31	2100	Deurne	Stedelijk onderwijs	P	20	0	50
+Het Pieterke	Pieter Van Isackerlaan	1a	2100	Deurne	Stedelijk onderwijs	P	8	8	60
+Het Vliegertje	Fort III-straat	5	2100	Deurne	Stedelijk onderwijs	P	8	16	75
+Hoedjes van Papier KS	Maarschalk Montgomerylaan	15	2100	Deurne	Stedelijk onderwijs	P	3	6	50
+Immaculata	Van Dornestraat	125	2100	Deurne	Vrij katholiek onderwijs	P	21	5	50
+Inpeeria	De Gryspeerstraat	84	2100	Deurne	Stedelijk onderwijs	P	0	5	75
+Kadee	Frank Craeybeckxlaan	24	2100	Deurne	GO!	P	0	1	75
+Koekatoe	Haviklaan	2	2100	Deurne	Stedelijk onderwijs	P	19	25	50
+Kriebel	Lakborslei	262	2100	Deurne	Stedelijk onderwijs	P	23	8	50
+Land van Nu Boekenberglei	Boekenberglei	284	2100	Deurne	Stedelijk onderwijs	P	5	12	80
+Sancta Maria COEV KS, LS (1-2-3-4)	Coeveltstraat	7A	2100	Deurne	Vrij katholiek onderwijs	P	10	5	50
+Sancta Maria KS, LS (1-2-3-4)	Pieter de Ridderstraat	5	2100	Deurne	Vrij katholiek onderwijs	P	8	15	50
+Sint Godelieve	Van Cortbeemdelei	277	2100	Deurne	Vrij katholiek onderwijs	P	7	3	75
+Sint-Bernadette	Antoon Van Den Bosschelaan	145	2100	Deurne	Vrij katholiek onderwijs	P	4	7	50
+Sint-Rumoldus	Paulus Beyestraat	153	2100	Deurne	Vrij katholiek onderwijs	P	10	7	70
+t Speelscholeke (ervaringsgericht onderwijs)	Hertstraat	7	2100	Deurne	Vrij onderwijs	P	4	4	50
+Tiptop	Van den Hautelei	79a	2100	Deurne	Stedelijk onderwijs	P	9	9	60
+De Esdoorn	Vinçottestraat	44	2140	Borgerhout	Stedelijk onderwijs	P	21	12	75
+De Horizon	Betogingstraat	9	2140	Borgerhout	Stedelijk onderwijs	P	5	2	70
+De Reuzenpoort	Zonstraat	71	2140	Borgerhout	Vrij katholiek onderwijs	P	0	5	50
+De Vlinderboom KS	te Boelaarpark	3	2140	Borgerhout	Stedelijk onderwijs	P	18	31	95
+De Zevensprong	Helmstraat	32	2140	Borgerhout	Vrij katholiek onderwijs	P	17	6	50
+Flora	Florastraat	120	2140	Borgerhout	Stedelijk onderwijs	P	19	0	100
+Franciscusschool	Berchemlei	93	2140	Borgerhout	Vrij katholiek onderwijs	P	3	14	70
+Het Talent	Juul Grietensstraat	8	2140	Borgerhout	Stedelijk onderwijs	P	13	2	50
+IQRA-school	HogeWeg	51	2140	Borgerhout	Vrij onderwijs	P	13	4	75
+Kleine Muze	maarschalk Montgomeryplein	8	2140	Borgerhout	Stedelijk onderwijs	P	4	1	50
+Mariagaarde	Griffier Schobbenslaan	45	2140	Borgerhout	Vrij katholiek onderwijs	P	19	4	50
+Mikado	Borgerhoutsestraat	74	2140	Borgerhout	Vrij katholiek onderwijs	P	7	8	50
+Mozaïek	Schoenstraat	41	2140	Borgerhout	Vrij katholiek onderwijs	P	8	7	50
+Plantijntje	Plantin en Moretuslei	163	2140	Borgerhout	GO!	P	19	16	70
+Steinerschool De Kleine Wereldburger	Generaal De Wetstraat	16	2140	Borgerhout	Vrij onderwijs	P	5	14	50
+									
+Xaveriuscollege KS	Stenenbrug	65-67	2140	Borgerhout	Vrij katholiek onderwijs	P	9	8	50
+De Luchtballon	Borrewaterstraat	70	2170	Merksem	Stedelijk onderwijs	P	13	7	50
+GVKS Groenendaal	Stella Marisstraat	3	2170	Merksem	Vrij katholiek onderwijs	P	26	11	70
+Het Laerhof	Laarsebaan	100	2170	Merksem	GO!	P	24	15	50
+JOMA Hoofdschool	Frans Adriaenssensstraat	123	2170	Merksem	Vrij katholiek onderwijs	P	0	0	85
+JOMA Kleuterschool en 1 lj	Laaglandlaan	232A	2170	Merksem	Vrij katholiek onderwijs	P	21	10	85
+Melgesdreef	Melgesdreef	113	2170	Merksem	GO!	P	26	13	50
+Sint-Eduardusbasisschool	Broeder Frederikstraat	3	2170	Merksem	Vrij katholiek onderwijs	P	11	16	50
+Sint-Jozef Merksem	Winkelstap	108	2170	Merksem	Vrij katholiek onderwijs	P	8	7	70
+Sint-Ludgardis Campus KVO	Bredabaan	814A	2170	Merksem	Vrij katholiek onderwijs	P	2	5	50
+Sint-Ludgardisschool	Du Chastellei	48	2170	Merksem	Vrij katholiek onderwijs	P	11	19	50
+Virgo Maria-instituut KS	Terlindenhofstraat	220	2170	Merksem	Vrij katholiek onderwijs	P	5	13	50
+3Hoek	Kloosterstraat	39	2180	Ekeren	GO!	P	13	18	50
+de Bunt	Waterstraat	16	2180	Ekeren	Vrij katholiek onderwijs	P	12	0	80
+De Kleurenboom	Pastoor Goetschalckxstraat	57	2180	Ekeren	Stedelijk onderwijs	P	3	16	50
+De Waterval (ervaringsgerichte school)	Veltwijcklaan	134	2180	Ekeren	Vrij onderwijs	P	3	7	50
+De Witte Merel (ervaringsgerichte school)	Kapelsesteenweg	165	2180	Ekeren	Vrij onderwijs	P	1	3	50
+O.-L.-V. van Lourdesinstituut KS Alfons Jeurissenstraat 13	Alfons Jeurissenstraat	13	2180	Ekeren	Vrij katholiek onderwijs	P	8	3	50
+O.-L.-V. van Lourdesinstituut KS Kloosterstraat	Kloosterstraat	82	2180	Ekeren	Vrij katholiek onderwijs	P	9	10	50
+Sint-Jozef Ekeren	Prinshoeveweg	44	2180	Ekeren	Vrij katholiek onderwijs	P	8	19	90
+Sint-Lambertus	Oorderseweg	8	2180	Ekeren	Vrij katholiek onderwijs	P	7	10	50
+Sint-Vincentschool	Leugenberg	143	2180	Ekeren	Vrij katholiek onderwijs	P	4	13	90
+VBSM	Frans Standaertlei	54	2180	Ekeren	Vrij katholiek onderwijs	P	8	34	70
+Veltwijck	Veltwijcklaan	235	2180	Ekeren	GO!	P	4	14	70
+Willem Tell	Kruisboogstraat	49	2180	Ekeren	Stedelijk onderwijs	P	11	11	80
+De Knikkerbaan	Frederik de Merodestraat	36	2600	Berchem	Vrij katholiek onderwijs	P	5	7	70
+De Kolibrie KS	Sint-Hubertusstraat	13	2600	Berchem	Stedelijk onderwijs	P	6	7	70
+De Schatkist	Ferdinand Coosemansstraat	15	2600	Berchem	Vrij katholiek onderwijs	P	21	10	50
+Freinetschool De kRing	Uitbreidingstraat	251	2600	Berchem	GO!	P	13	16	50
+Freinetschool Het Avontuur	filip Williotstraat	11	2600	Berchem	GO!	P	5	18	50
+Fruithof	Flor Alpaertsstraat	45	2600	Berchem	Stedelijk onderwijs	P	5	10	60
+Heilige Familie	Jan Moorkensstraat	95	2600	Berchem	Vrij katholiek onderwijs	P	11	17	50
+Het Hinkelpad	Geluwestraat	4	2600	Berchem	Vrij katholiek onderwijs	P	18	20	70
+Het Palet	Ramskapellestraat	43	2600	Berchem	Stedelijk onderwijs	P	21	12	70
+Klavertjevier KS	Arthur Sterckstraat	61	2600	Berchem	Stedelijk onderwijs	P	6	9	70
+Leopold 3	Mellinetplein	13	2600	Berchem	Stedelijk onderwijs	P	4	19	60
+O.-L.-Vrouwinstituut Pulhof KS	Floraliënlaan	370/2	2600	Berchem	Vrij katholiek onderwijs	P	14	35	75
+Steinerschool Antwerpen Transvaalstraat ('t Speelschooltje)	Transvaalstraat	21	2600	Berchem	Vrij onderwijs	P	4	7	50
+De Ark	Valkenveld	73	2610	Wilrijk	Vrij katholiek onderwijs	P	4	20	85
+De Letter	Letterkundestraat	39	2610	Wilrijk	Stedelijk onderwijs	P	14	13	50
+De Zonnebloem	Boomsesteenweg	387	2610	Wilrijk	Stedelijk onderwijs	P	7	11	65
+Johannesschool	Frans Stienletlaan	39	2610	Wilrijk	Vrij katholiek onderwijs	P	21	12	70
+Neerland	Mogendhedenlaan	1	2610	Wilrijk	Vrij katholiek onderwijs	P	2	2	100
+Parkschool Ieperman	Kerkelei	43	2610	Wilrijk	GO!	P	4	23	50
+Pius X (Kleine Stan)	Groenenborgerlaan	212	2610	Wilrijk	Vrij katholiek onderwijs	P	3	15	50
+Prins Boudewijn	Spoorweglaan	145	2610	Wilrijk	Stedelijk onderwijs	P	2	12	50
+Rozenkransschool	Heistraat	255	2610	Wilrijk	Vrij katholiek onderwijs	P	4	6	50
+Sint-Ursula-Instituut KS	Kerkhofstraat	1A	2610	Wilrijk	Vrij katholiek onderwijs	P	16	16	100
+Steinerschool Lohrangrin	Boomsesteenweg	94	2610	Wilrijk	Vrij onderwijs	P	4	10	50
+Accent Jules Baeckelmanslaan	Jules Baeckelmanslaan	29	2660	Hoboken	Stedelijk onderwijs	P	9	8	50
+Accent Romestraat	Romestraat	20	2660	Hoboken	Stedelijk onderwijs	P	9	14	50
+De Molen Krugerstraat	Krugerstraat	26	2660	Hoboken	Stedelijk onderwijs	P	18	6	50
+De Molen Onderwijzersstraat	Onderwijzersstraat	13	2660	Hoboken	Stedelijk onderwijs	P	8	10	50
+De Puzzel	Krugerstraat	103	2660	Hoboken	Vrij katholiek onderwijs	P	3	5	70
+De Schakel	Weerstandlaan	141	2660	Hoboken	GO!	P	31	5	100
+Don Bosco	Sint-Bernardsesteenweg	665	2660	Hoboken	Vrij katholiek onderwijs	P	17	13	70
+Familiale School Edward Poppe	Fodderiestraat	12	2660	Hoboken	Vrij onderwijs	P	3	2	50
+Freinetschool De Pluim	Pauwenlaan	55	2660	Hoboken	GO!	P	13	3	50
+Het Kompas	Montessoristraat	15	2660	Hoboken	Stedelijk onderwijs	P	26	14	50
+Lucerna	Hendriklei	209	2660	Hoboken	Vrij onderwijs	P	0	0	60
+Polderstad - Nello Lambrechtsstraat	Lambrechtsstraat	19	2660	Hoboken	Stedelijk onderwijs	P	4	6	75
+Polderstad - Veerdamlaan	Veerdamlaan	15	2660	Hoboken	Stedelijk onderwijs	P	4	9	75
+Sint-Agnes - De Regenboog	Kioskplaats	28	2660	Hoboken	Vrij katholiek onderwijs	P	27	16	70
+Sint-Agnes - Hof ter zande	Oudestraat	119	2660	Hoboken	Vrij katholiek onderwijs	P	24	14	70
